@@ -26,7 +26,6 @@ A powerful **Streamlit-based web app** that predicts **stock market trends** usi
 | ![Search](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/assets/Search%20for%20stock.png) | ![Trend](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/assets/Trend%20of%20searched%20stock.png) |
 
 
-> ⚠️ Ensure these screenshots are saved in the `assets/` directory.
 
 ---
 
@@ -96,7 +95,3 @@ stock-trend-predictor/
 💼 [GitHub: KIRANRW9](https://github.com/KIRANRW9)
 
 ---
-
-## 🌟 Show your support
-
-If you found this project helpful, please consider ⭐ starring the repo and sharing it with your network!
