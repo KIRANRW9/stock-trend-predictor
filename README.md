@@ -73,6 +73,26 @@ tensorflow
 
 ## Application Screenshots
 
+### User Management
+
+![User Registration](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/user-registration-form.png)
+*User registration form for remote users*
+
+![Remote User Login](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/remote-user-login.png)
+*Login interface for remote users*
+
+![Service Provider Login](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-login.png)
+*Service provider login interface*
+
+![Service Provider Registration](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-registration.png)
+*Registration form for service providers*
+
+![Service Provider Dashboard](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-dashboard.png)
+*Admin dashboard for managing registered users*
+
+![User Dashboard](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/user-dashboard-after-login.png)
+*User dashboard after successful login*
+
 ### User Interface
 
 ![Home Dashboard](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/home-dashboard-add-stock.png)
@@ -94,26 +114,6 @@ tensorflow
 
 ![Trading Signals Analysis](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/trading-signals-analysis.png)
 *Trading signals with comprehensive technical analysis*
-
-### User Management
-
-![User Registration](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/user-registration-form.png)
-*User registration form for remote users*
-
-![Remote User Login](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/remote-user-login.png)
-*Login interface for remote users*
-
-![Service Provider Login](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-login.png)
-*Service provider login interface*
-
-![Service Provider Registration](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-registration.png)
-*Registration form for service providers*
-
-![Service Provider Dashboard](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-dashboard.png)
-*Admin dashboard for managing registered users*
-
-![User Dashboard](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/user-dashboard-after-login.png)
-*User dashboard after successful login*
 
 ## How to Use
 
