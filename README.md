@@ -109,7 +109,7 @@ tensorflow
 
 ### Technical Analysis
 
-![Technical Indicators Chart](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/technical-indicators-chart.png)
+![Technical Indicators Chart](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/trading-signals-analysis.png)
 *WIPRO.NS comprehensive stock analysis displaying price movements from October 2024 to September 2025 with SMA (orange) and EMA (red) moving averages, support level at ₹241.27 (green dashed line), resistance level at ₹259.80 (red dashed line), and RSI momentum oscillator below showing overbought (70) and oversold (30) threshold levels. Green upward arrow indicates ML model's bullish prediction for next trading session.*
 
 ## How to Use
