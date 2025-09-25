@@ -81,11 +81,11 @@ tensorflow
 ![Remote User Login](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/remote-user-login.png)
 *Login interface for remote users*
 
-![Service Provider Login](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-login.png)
-*Service provider login interface*
-
 ![Service Provider Registration](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-registration.png)
 *Registration form for service providers*
+
+![Service Provider Login](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-login.png)
+*Service provider login interface*
 
 ![Service Provider Dashboard](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/service-provider-dashboard.png)
 *Admin dashboard for managing registered users*
@@ -110,10 +110,7 @@ tensorflow
 ### Technical Analysis
 
 ![Technical Indicators Chart](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/technical-indicators-chart.png)
-*Stock price chart with RSI and other technical indicators*
-
-![Trading Signals Analysis](https://github.com/KIRANRW9/stock-trend-predictor/blob/main/Images/trading-signals-analysis.png)
-*Trading signals with comprehensive technical analysis*
+*WIPRO.NS comprehensive stock analysis displaying price movements from October 2024 to September 2025 with SMA (orange) and EMA (red) moving averages, support level at ₹241.27 (green dashed line), resistance level at ₹259.80 (red dashed line), and RSI momentum oscillator below showing overbought (70) and oversold (30) threshold levels. Green upward arrow indicates ML model's bullish prediction for next trading session.*
 
 ## How to Use
 
