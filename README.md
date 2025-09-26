@@ -212,16 +212,20 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Quick Learner with hands-on project experience in analytics and continuous skill development
 - Self-Driven Innovator with hands-on project portfolio and relentless pursuit of cutting-edge analytics skills
 
-**Connect with Me:**
-- **LinkedIn**: [linkedin.com/in/kiranrangu](https://linkedin.com/in/kiranrangu)
-- **GitHub**: [github.com/KIRANRW9](https://github.com/KIRANRW9)
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiranrangu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KIRANRW9)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranrw09@gmail.com)
 
-## Contact & Support
+---
 
-**For Project-Related Inquiries:**
-- **Email**: kiranrw09@gmail.com
-- **LinkedIn**: [linkedin.com/in/kiranrangu](https://linkedin.com/in/kiranrangu)
-- **Issues**: Please use [GitHub Issues](https://github.com/KIRANRW9/stock-trend-predictor/issues) for bug reports and feature requests
+## 📞 Contact & Support
+
+### For Project-Related Inquiries:
+- 📧 **Email**: kiranrw09@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/kiranrangu](https://www.linkedin.com/in/kiranrangu)
+- 🐛 **Issues**: Please use GitHub Issues for bug reports and feature requests
+
 
 **For Technical Support:**
 1. Check the [Issues](https://github.com/KIRANRW9/stock-trend-predictor/issues) section
@@ -247,5 +251,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `Python` `Machine-Learning` `Deep-Learning` `Stock-Prediction` `Streamlit` `TensorFlow` `scikit-learn` `XGBoost` `LSTM` `Technical-Analysis` `Data-Science` `Portfolio-Project` `Kiran-Rangu` `AI` `Financial-Analytics`
 
 ---
-
-**Made with ❤️ by [Kiran Rangu](https://github.com/KIRANRW9)**
